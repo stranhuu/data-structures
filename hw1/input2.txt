@@ -1,0 +1,7 @@
+a:0;b: 00; c: 0 0 0;   id:abc+a+b+c+
+
+z:1; id:1
+
+a:9 9 9 ; b:9 9 9; c:9 9 9 ;d:9 9 9 ;id: abcdabcd+a+b+c+d
+
+ id: a+a
